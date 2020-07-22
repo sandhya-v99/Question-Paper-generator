@@ -1,5 +1,5 @@
 # Question-Paper-generator
-Random question paper generator
+<Strong> Random question paper generator </Strong>
 
 Random Question Paper Generator is an application which takes input files from a folder and stores them in a database. These files can be accessed and a question paper with random questions can be generated. 
 Typical Features include:
